@@ -4,8 +4,8 @@ This is the repository for SCU's Flapper Research Group.
 
 **Current Tasks:**
   
+  1) Plot velocity at head and tail separately.
+  2) Show wake in swimmer animation.
+     
   **Include Observations:**
-  1) Local flow velocity
-  2) Follower velocity
-  3) Multiple points on the body for vel. gradient (start with 2)
-  4) Time history: keep track of all signals above one period
+  1) Time history: keep track of all signals above one period.
